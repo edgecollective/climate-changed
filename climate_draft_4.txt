@@ -1,0 +1,95 @@
+# Intro
+
+Hi, I'm Don Blair.  I'm part of a research collective that focuses on the needs of communities that are currently being impacted by climate change. We use cooperative, open-source work practices.  
+
+I work out of Artisan's Asylum, an enormous warehouse nearby in Somerville, full of artists, engineers, hobbyists, retirees, and awol students. We have a machine shop, a wood shop, an electronics shop, welding facilities, and a plasma cutter.
+
+A recent project involves jewelers who have expertise in etching copper working with people in the electronics shop to produce circuit boards intended to measure soil moisture at a dairy farm in Maine, and floodwater levels in Provincetown.  
+
+Come visit us and I'll give you a tour on a scooter. You'll love it.
+
+When I left academia and then spent several years worked in non-profit environmental advocacy and regenerative agriculture, I quickly became aware of some strong differences in cultural norms.
+
+I ended up spending significant amounts of time in New Hampshire, in woodstove-heated yurts, drinking whiskey with some very clever farmers and discussing the finer points of feminist epistemology, decentralized governance, and scientific culture. 
+
+I think that some of the insights that emerged from that process are in fact highly relevant in framing the following panel.
+
+First, a story that required a lot of whiskey to work out.
+
+# Plymouth
+
+- Plymouth nuclear power plant, not far from here
+- Local activists have a lot of good reasons to shut down this plant, many of which have to do with safety around sea level rise, some of which have to do with suspected environmental impacts
+- One of the strategies was to try to demonstrate that the plant was out of compliance with regulations around how much its cooling system could increase the temperature of the bay nearby.
+- Coming from a physics background, I was asked to come up with a monitoring strategy using low-cost temperature montors to see if the plant was out of bounds.
+- BUt ...
+
+# Models and Ideologies
+
+The word 'ideology' has frightening resonances for people.  But today I want to recast this concept in a non-pejorative way.
+
+I want to think of ideology as the abstract framework we use to represent the world and the people in it, to explain the world to ourselves, and to make plans for action. 
+
+In other words, I want to think of ideology as a model.
+
+# Useful Abstractions
+
+We cannot operate without an abstract model of the world. The world is too complex, and our direct experience of it is too limited.  We must use abstractions in order to simply the world enough that we can make predictions, assign causality, and explain experience. In this sense, we all must rely on ideologies in order to exist in society, in order to achive our goals and strive towards our ideals.
+
+Viewing ideology in this way helps us to avoid an 'us vs. them' mentality -- I've got a model of the world, you've got a model of the world -- it's okay -- we can't help it.
+
+It also might helps us to evaluate and compare our ideologis of the world.
+
+No model can capture every feature of the world, and every models emphasizes some features over others. That's how abstraction operates. 
+
+A useful ideology or model represents all of the important and relevant features of the world that allow us to effectively achieve our goals.  
+
+If an ideology or model neglects important and relevant features in a systematic way, preventing us from achieving our goals, it needs to be revised.  To stay within the Netownian model would've prevented us from achieving GPS. The introduction of child labor laws in this country might be viewed as an important revision of a previous ideology.
+
+Sometimes there are productive tensions among models and ideologies. 1- and 2-dimensional climate models have the advantage that they are easier to solve and have intutions about, but may have less predictive power or versimilitude than 3-dimensional models. 
+
+Much of the difficulty in working across disciplines, in my experience, involves latent ideological tensions and differences.  
+
+In this spirit, I want to quickly surface what I think are productive ideological tensions in some of the topics that are going to be addressed by the panel.
+
+# Power vs Reason
+
+- For a particular issue, is it a part of your model of the world that the intended audience for your research will respond a clear, logical argument, relying on empirical evidence? 
+- Or do you think that your audience is not motivated by evidence, but instead would respond to an emotional appeal -- for example, based on fear, or on affiliation?
+- Bonus question: should we consider choices regarding the representation of evidence in the form of graphs, diagrams, and photos to be part of rational debate (relying on reason) or in the 'power' category? 
+
+# Individual Freedom vs. Collective Governance
+
+- How does your model account for citizen scientists who, in their explorations, use experiments that many within the academy would consider dangerous? What if they use toxic chemicals in thier analytical techniques? 
+- How should we think about governing science outside the academy?
+- How might we respectfully incorporate expertise into communities without undue reliance on authority?
+
+# Now vs. Future
+
+- On what timescale does your theory of change operate? 
+- What options for mitigating the impacts of climate change do you consider currently 'unrealistic', and on what basis?
+- Should our research and suggested interventions focus on world dynamics as they currently exist, even if we know that many of those dynamics are unsustainable?
+
+# Utopianism vs. Cynicism
+
+- The terms 'techno-utopianism' and 'solutionism' have been used in recent years to refer to a recklessly optimistic view of our capacity to innovate, and the sort of motivated reasoning we sometimes see emerging from startups in Silicon Valley. 
+- Some proposals in the realm of geoengineering are certainly worthy of this critique. 
+- But I have also spoken to several young people who have grown up with the assumption that ecological collapse is inevitable, and that the only viable life strategy is to accumulate sufficient resources as quickly as possible and to hope to live full lives before the crises really hit in force.
+- What is the proper role and degree of optimism in your models of change, and how is that reflected in your research practices?
+
+# Scaling vs. Local Experimentation
+
+- Lots of research effort is reasonbly focused on interventions that will scale.
+- It's natural to want viable solutions to scale rapidly, in order to address urgent, global problems.
+- But I believe that many of the tensions I've highlighted in this presentation might be best resolved by localizing and personalizing our solutions.
+- For example: some of the tensions between advocacy and science tend to go away when people have more decision making power in the processes that impact their local environment.
+- Small-scale farmers who live on the land they cultivate are incentivized not to pollute their own drinking water.
+- Worker-owned businesses run by local people might be similarly motivated not to use production practices that ruin the health of their families.
+
+# Conclusion
+
+Thanks for induling my particular framing. My hope here was to highlight some of the 'knobs' in the ideological models we use, and encourge us to pertub them and see what new insights that might provide us.
+
+ I'm really looking forward to the presentation. 
+
+

@@ -1,0 +1,123 @@
+# Intro
+
+- I spent the first part of my life studying philosophy, and then physics, and I am very grateful for the time I was able to spend doing that. But I always craved the idea of doing science in a way that would be more directly related to urgent problems in the world than my research fields tended to allow for. I'm currently part of a research collective that attempts to do rigorous science and engineering mostly outside the academy, driven by the needs of communities already being impacted by climate change, and using cooperative, open-source modes of scientific and technological production. We work out of Artisan's Asylum in Somerville, an enormous warehouse full of artists, engineers, hobbyists, retirees, and awol students, replete with a machine shop, a wood shop, an electronics shop, welding facilities, large CNC machines that can carve a topo map of a watershed out of glued layers of plywood. A recent project involved leveraging the materials and expertise around copper etching from the jewelry shop to produce circuit boards intended for wireless soil moisture monitoring for a dairy farm in Maine.  We're sort of the anarchist alternative to the Media Lab. Come visit us, I'll give you a tour of the facility on a scooter. You'll love it.
+
+I found myself faced with some strong contradictions and cultural tensions when I left academia and spent several years working in the areas of environmental advocacy and regenerative agriculture. many of these issues came out of attempting to work in a cross-disicplinary manner. I've spent a good deal of time hanging out in yurts with very clever farmers in New Hampshire, drinking whiskey and debating the finer points of feminist epistemology. I want to leverage some of the insights that emerged from the last few years (not all of them spent in the yurt), to help frame the following discussions.
+
+In particular, I want to talk about ideology.
+
+# Ideology as Model
+
+Ideology has frightening resonances for most people -- but let me quickly recast the concept of ideology so that it is non-pejorative, no longer scary, and becomes simply a another useful analytical tool for us.
+
+Today I want us to consider ideologies simply as abstract models that we use to represent the world and the people in it, explain it to ourselves, and make plans for action.
+
+In other words (the same words), I want us to think of an ideology as a model.
+
+We cannot operate without a model of the world.  The world is too complex, and our direct experience of it is too limited.  We must use abstractions in order to operate in the world at all. You rely on ideologies, I rely on ideologies. It's okay; we have no choice.
+
+Viewing ideology in this way -- as a model of the world -- allows us to consider ways of evaluating them.
+
+Models and ideologies are useful if they represent salient and important features of the world, enabling us to explain the world as it is, and empowering us to achieve our goals and ideals.
+
+No model can capture every feature of the world, and every model emphasizes different aspects of the world. It is possible for our models and ideologies to de-emphasize or neglect features of the world, preventing us from achieving our goals, leading to systemmatic error.
+
+In this sense, we can view child labor practices of the 17th century as a systematic error in our ideology that we decided needed correction.
+
+There are often productive tensions and contradictions among various models.  For example, 1- and 2-dimensional climate models are easier to solve, but may have less predictive power than 3-dimensional models.
+
+In the spirit of exploring models, I would like us to surface productive tensions and contradictions among ideological aspects in the talks we're about to hear.
+
+Hear are the tensions I'm going to quickly highlight:
+
+[ List of tensions]
+
+Example: Plymouth
+
+# Plymouth
+
+# Power vs Reason
+
+An immediate response might be: but political struggle isn't about rationality. People don't use rationality when making political decisions, and we must use non-rational means of persuasion in order to change the political landscape. This is a particular model of the world, of people, and how they work. I think the truth is obvious: people operate in both modes. Scientists attempt to cultivate a culture of rational debate and pride themselves on being able to change their opinion based on the evidence.  One of the debates around how to frame evidence for climate change involves how best to communicate the issues to people who may not be operating from a place of rational debate or evidence. Even scientists do not always operate rationally.  I'm saying obvious things; but what I find is that scientists tend to have the ideology: everyone should operate based on reason, and I'm going to assume that they do.  Whereas people in other disciplines are often highlighting the dynamics of power, on the assumption that most of human affairs are decided not through rational debate, but through struggle.
+
+So, general questions:
+- Are you aiming to achieve your goals by assuming a culture of evidence-based deliberation and rational debate?  Or are you engaging in a mode that considers power, and perhaps pre-rational perception, as your mode of intervention?  I believe that both are effective and appropriate in their place, but that they might not always work in the same project, at the same time, for the same audience.
+- E.g. when I draw a map or create a figure that highlights a feature I think is important, am I engaging in a process of reason with my audience, or coercion? What are my views on the justification for either?
+
+# Individual Freedom vs. Collective Governance
+
+There may be a discussion today of the idea and promise of citizen science -- that is, science done by people outside the academy, often without academic training.
+
+The history of science is full of revisions to models and pratices. I've heard many horror stories from professors of the way that graduate students used mercury in their experiments as recently as 20 or 30 years ago.
+
+What happens when scientists outside the academy propose experiments that would deemed dangerous?  Use analytical techniques that professional academics would consider too toxic, or misleading?
+
+I have now seen many examples of well-funded citizen science projects around air quality that at best were a waste of money and resources, at worst were deeply misleading, providing a false sense of urgency or safety.  I have removed myself from citizen water quality projects that I felt would likely mislead people. But removal is not participation -- what would a truly participatory science look like?  How do we respectfully incorporate expertise into communities that don't possess it, without undue reliance on authority?
+
+# Emergence vs. Coordination
+
+- invisible hand
+- market dynamics
+- only mechanism for global coordination is the market
+- we need to facilitate business models that would support interventions
+
+but
+
+- current market dynamics require exponential growth
+- exponential growth in a finite system won't work
+- what would be evidence that coordination via market mechanisms is working, or could work, or isn't working?
+- is it possible to change practices the scale and pace we should be globally by relying on emergent coordination via indirect mechanisms?
+
+# Exchange vs. Provisioning
+
+What belongs in the market? What shouldn't be subject to market forces, or exchange?
+
+Should we allow water to be privatized? California passed a law claiming that water is a human right.
+
+If water is a human right, is land? Is food? If so, how would that impact our research focus and strategy?
+
+# Now vs. Future
+
+On what timescale does your theory of change operate?
+
+When is it important to give up on 'unrealistic' options for mitigating climate change?
+
+If shifting to 100% renewable energy in 5 years is 'unrealistic', do we stop outling strategies for doing so?
+
+Should our interventions focus on the world that we have now, or the world we could have tomorrow?
+
+We have evidence that the current global economic system will no longer be viable because of finite, planetary boundaries.  We even have models predicting collapse in several decades.  Are you basing your interventions on the current economic system?  If we know it's not viable in 50 years, what do we base our interventions upon?
+
+# Utopianism vs. Cynicism
+
+- solutionism
+- techno-utopianism
+- disrupt healthcare
+- geoengineering as an example
+- fetishizing hubris
+- cynicism
+- apathy
+- all interactions are only about power
+- no such thing as objectivity
+- millenials who think there's no hope. only option is to try to make as much money as you can, as quickly as possible, hope to enjoy life before the crisis.
+
+# Scaling vs. Localism
+
+- Natural to want to scale solutions
+- Also in keeping with the current economic system
+- But there are clear contradictions
+- And it may be that certain questions need to be addressed locally
+
+- experimentation in local way first
+- governance
+- trust
+- incentives
+
+- factory pollution solution -- incentives aligned (cooperatives example)
+- small-scale farming -- incentives aligned
+
+# Conclusion
+- embrace ideology
+- surface the tensions
+- turn knobs to see what works in our model -- cf. cooperative solution
+- wakanda forever

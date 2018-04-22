@@ -1,0 +1,122 @@
+# Intro
+
+I'm Don Blair. I'd been working in academic physics for many years, and decided to leave to work with a non-profit around environmental issues.  With friends, we've been working on making open source monitoring instrumentation using cooperative, collaborative production practices.  Currently, I'm based in Artisan's Asylum, which is home to an array of artists, engineers, retirees and students who pursue their crafts and work and pedagogy in an enormous warehouse, full of art and electronics, a wood shop, a welding shop, an electronics shop, and a jewelry shop.  Recently we've had a collaboration among jewelers and engineers on DIY fabrication of circuit boards using chemical etching methods.
+
+I also work with and organization called FarmHack, which is trying to bring an open source philosophy to rengerative agriculture technologies.  which means that, in addition to working on novel instrumentation, I get to spend a lot of time in yurts in New Hampshire drinking whiskey in Yurts and debating some of the finer points of feminist epistemology.
+
+One of my passions is trying to envision the pursuit of science outside the academy.  An early experience when first working with a non-profit gave me great pause.  I recount it here because I think it's illustrative, and helps set up the framing I'd like to suggest.
+
+The Plymouth nuclear power plant ...
+
+[ NEED MATERIAL ]
+
+So: we had different goals. Both of them valid, I think, but in tension. I think it has similarity to politics around climate change generally. I've spent a long time trying to work out what I think about this issue for myself.  Instead of answers, I want to surface tensions that I think are present in the collection of material we'll be seeing today.
+
+I had a difficult experience when I first began working in this non-profit.
+
+# Ideology: Just A Model?
+
+I'm going to suggest that we think of ideologies, for this discussion, simply as abstract models that we use to represent, cope with, and debate about the world.
+
+This is a non-pejorative idea of ideology, in which we can think of it is as simply: what is the model of the world -- people, and the world they inhabit -- that we're using in order to explain what we're seeing in the world, and to make decisions about what we do next?
+
+The world is too complex to observe or simulate in its entirety. We only have access to a limited amount of experience. We necessarily need to abstract in order to act rationally at all. So, don't be embarrassed about your ideology. It's okay that you have one. It's just your best model of the world.
+
+Ideologies, like models and maps, include and prioritize some features of the world, and exclude or deemphasize others.
+
+And ideology is good and useful if it includes the features of the world that help us navigate the world successfully and achieve the goals we think are important.
+
+An ideology or model is faulty if it excludes or obscures important and relevant features of the world.  No model can capture every relevant feature of the world; but if your model is missing something important, or if you're systematically neglecting features of the world, then your model needs revision. This is a way of thinking about ideology that might see some similarities connection between the history of child labor issues, slavery, women's rights and the ways in which science progresses.
+
+An immediate response might be: but political struggle isn't about rationality. People don't use rationality when making political decisions, and we must use non-rational means of persuasion in order to change the political landscape. This is a particular model of the world, of people, and how they work. I think the truth is obvious: people operate in both modes. Scientists attempt to cultivate a culture of rational debate and pride themselves on being able to change their opinion based on the evidence.  One of the debates around how to frame evidence for climate change involves how best to communicate the issues to people who may not be operating from a place of rational debate or evidence. Even scientists do not always operate rationally.  I'm saying obvious things; but what I find is that scientists tend to have the ideology: everyone should operate based on reason, and I'm going to assume that they do.  Whereas people in other disciplines are often highlighting the dynamics of power, on the assumption that most of human affairs are decided not through rational debate, but through struggle.
+
+I don't think this issue is easy to resolve. But I think it is often suppressed or avoided when trying to bridge science and other disciplines.
+So what I want to do here is not to make particular ideological claims or critiques of my own, but to surface, in advance, some of the issues that I see in the general realm we're about to discuss.
+
+# Power vs Reason
+
+- Are we speaking to people whom we think will be convinced by argument? Or are we attempting to modify their behavior through other means?
+- If I redraw a map to highlight what I think is important, is that rational discourse, or is it coercive?
+- Advocacy vs scientific reputation.
+- Are you trying to convince through evidence? Are you authentically representating to your interlocuter your intentions?
+- The answer may depend on the audience and the goals. But these modes are often in conflict.
+
+# Freedom vs. Collective
+
+- We might all profess the belief in individual intellectual freedom. We might have some sense of the argument of JS Mill, that it's necessary to ensure a diverse array of voices and opinions in order to ensure that we're not missing anything important. We feel that science often progresses through the ideas of the individual, often at odds with the establishment.
+- But we also feel as though allowing certain ideas to be voiced can be dangerous.  Most of us might think reflexively that climate change denialists shouldn't be given a prominent place in the debate.
+- In working with people on community, DIY water quality techniques, I became worried that people would be misled.
+- When I suggested that we should be reviewed by experts, it was considered elitist. Why should anyone in the community have a bigger say than anyone else? Why should certain perspectives be priveleged?
+- So:  we want to allow for personal freedom; but we also see certain sorts of freedom as dangerous.  What do we encourage? What do we discourage?
+
+# Exchange vs. Provisioning
+
+A related tension is between the ideas of exchange and provisioning
+
+- privatized water?
+- privatized science?
+- economic models?
+- business models?
+
+the idea that certain ideas are not viable unless they have business models associated with them.
+
+# Emergence vs. Planning
+
+the idea that an invisible hand will, through many exchange patterns and market mechanisms, produce the proper arrangements. that this is the way to coordinate action
+what would be evidence in support of this view? what would be evidence that this view is not working?
+the idea that water and other goods must be achieved through exchange, rather than through planning or societal provisioning.
+california passed a law that water is a human right. is it? do we believe that?
+
+# Now vs. Future
+
+Going to war with the army you have.
+
+On what timescale does your theory of change operate?
+Is your idea to shift to an economy run purely on renewables tomorrow? In 30 years? What deterimes this timescale for you? What makes an idea 'realistic' for you? How does 'realistic' interact with the possible -- and what other people think is possible?
+
+How are we conflating what is 'possible' with what is 'plausible'?
+
+We have evidence that our current modes of economic production, which depend on exponential growth, cannot last on a finite planet. We even have predictions as to when particular crises will occur.
+
+Are your ideas around intervention based on the current economic models?
+If we know that the current economic system is not viable, then what do we base our interventions on?
+
+# Utopianism vs. Cynicism
+
+In the world I found myself in during the last few years, it is common parlance to use the terms 'solutionism', or 'techno-utopianism'. This began as a criticism of the observed tendency in Silicon Valley, say, for technologists to claim that they would solve any given social ill through some technological intervention.  They'll 'disrupt healthcare', say.
+
+But I think it is a deeper criticism than this.  It is taken up by many within and without the academy as a critique of the possibility of technological or scientific progress. One finds it in agriculture, where it is common for people to say, citing the failures of the Green Revolution, that 'science didn't work. Now we need to try other approaches.'
+
+What are your attitudes towards scientific and technological progress? Do you believe that it would be better if we were to halt where we are, technologically, and clean up our mess, as it were? Do you believe we can invent our way out of our problems?
+
+Geoengineering is a prime example of this.
+
+But we also are aware that hubris can be fetishized, leading to apathy. I've spoken to many millenials who have grown up with certainty that there is no way to avoid ecological collapse, that their main goal should be to accumulate as much as possible, as quickly as possible, and who hope to enjoy their lives as fully as possible before things become too dire.
+
+The recognition that we have been wrong in the past has led many scholars to the idea that there is no possiblity of getting closer to the truth. The identification of pernicious bias has led many to give up on having an unbiased view as an ideal to strive towards, to the idea of objectivity as a sham. That all human interacts are fundamentally about power, and nothing else.
+
+These issues are not decided.  There are likely useful insights coming from both extremes.
+
+# Scaled Solutions vs. Local Experimentation
+
+Once we have identified the outcomes we prefer, it is of course natural to want more of a good thing, and as quickly as possible.
+The idea that solutions must be 'scalable' is therefore natural.
+
+Of course, we also recognize that exponential scaling is required by our current economic system, and most of us would agree that this sort of scaling is what now threatens us with ecological collapse.
+
+The promotion of interventions that were intended to scale without bound, in the context of a bounded system, has a unfortunate history.
+
+It's clear to me that many of the issues I've described are difficult enough that we cannot adjudicate them from the armchair, with pencil and paper, insulated from the world.  Their resolution depends on empirical facts about the world -- the actual values that people possess, the way they actually make decisions, the actual economic dynamics on the ground.
+
+In other words: we must investigate and experiment.
+
+What are the perturbations we can try with our ideological models?  What happens when we turn more of the knobs than we're used to?
+
+For example: what if a factory were owned and directed by its workers, who lived locally?  Would they be incentivized to understand the evidence around pollution and mitigate it, in order to avoid contaminating the water and soil of their own community? Small-scale farms seem often to operate with these incentives.  Cooperatives are thriving and are responsible for much of the electricity production in the south.
+
+
+# Conclusion
+
+I've tried to offer these reflections as tensions, lines of inquiry, and not take a strong stand for each.  This is because I think that many of these tensions can't be resolved for all cases in the same way, or once and for all, but are going to ongoing reflection, introspection, and discussion. For my own case, I have my own predilictions, and will add them to the discussion as we go along.
+
+Wakanda forever.
